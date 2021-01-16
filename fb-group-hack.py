@@ -3,19 +3,19 @@ import os, sys, time
 
 # Set Colors ######
 
-N = '\033[0m'
+N = '\033[0m'sexy hacker/Lesbo queen
 
-W = '\033[1;37m'
+W = '\033[1;37m'fuvk you haters
 
-B = '\033[1;34m'
+B = '\033[1;34m'zuku feel the power of papapa
 
-R = '\033[1;31m'
+R = '\033[1;31m'its Shadow Hacker creation
 
-G = '\033[1;32m'
+G = '\033[1;32m'and mis creation bushra420 creation
 
-Y = '\033[1;33m'
+Y = '\033[1;33m'its bhusra sexy QUeeN 💋💋💞😘 fuvk your system
 
-C = '\033[1;36m'
+C = '\033[1;36m'kill you my hot sexy hot 🔥 lovers suck you
 
 ##################
 
@@ -79,7 +79,7 @@ print
 bahasa = raw_input("%s[%s*%s] %sPilih/Choose/Hili:%s " % (C, Y, C, W, B))
 
 
-try:
+try:fb group Hacking lets start wow 
 
 	file = open("link.txt", 'w')
 
